@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wilmar</h1>
 <h3 align="center">A passionate software developer from Perú</h3>
 
-- 👨‍💻 All of my projects are available at [https://wilmartarazona.github.io/](https://wilmartarazona.github.io/)
+- 👨‍💻 All of my projects are available at [Personal Site](https://wilmartarazona.github.io/)
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [Online Resume](https://wilmartarazona.github.io/Documents/Wilmar_Tarazona_Software_Developer_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
